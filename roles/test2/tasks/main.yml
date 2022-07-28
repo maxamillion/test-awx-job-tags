@@ -1,0 +1,5 @@
+---
+# tasks file for test1
+#
+- debug:
+    msg: "TEST2"

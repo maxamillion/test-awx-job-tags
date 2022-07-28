@@ -1,0 +1,11 @@
+---
+- name: Test job tags in workflows
+  hosts: localhost
+  roles:
+    - role: test1
+      tags:
+        - test1
+
+    - role: test2
+      tags:
+        - test2
