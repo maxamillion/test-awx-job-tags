@@ -4,8 +4,8 @@
   roles:
     - role: test1
       tags:
-        - test1
+        - jobtagtest1
 
     - role: test2
       tags:
-        - test2
+        - jobtagtest2
